@@ -7,8 +7,8 @@
 # Edit your records and then
 # cloud-dns.py --provider rs-myaccount --zone test.com --import < myzone.txt
 #
-# code@vhgroup.net
-# VHGroup - www.vhgroup.net
+# infradevs@flugel.it
+# http://flugel.it
 #
 
 import os
